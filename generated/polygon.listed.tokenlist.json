@@ -29,6 +29,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png"
         },
         {
+            "address": "0x96d3277F70729CDcb2ed4792bA54012043f29552",
+            "chainId": 80001,
+            "name": "CSS",
+            "symbol": "CSS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png"
+        },
+        {
+            "address": "0x7824f788F656A56AFa33FA4d49d300F9Ad177BE2",
+            "chainId": 80001,
+            "name": "CROS",
+            "symbol": "CROS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png"
+        },
+        {
             "address": "0x3d468AB2329F296e1b9d8476Bb54Dd77D8c2320f",
             "chainId": 137,
             "name": "20WETH-80BAL",
