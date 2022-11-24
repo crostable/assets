@@ -13,6 +13,22 @@
     },
     "tokens": [
         {
+            "address": "0x88C518E79200A9df852A1163dAE8D9F158f0f11B",
+            "chainId": 80001,
+            "name": "WCRO",
+            "symbol": "WCRO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png"
+        },
+        {
+            "address": "0x7d69964881C321F0bDE3A6b471a9153112261722",
+            "chainId": 80001,
+            "name": "VVS",
+            "symbol": "VVS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png"
+        },
+        {
             "address": "0x3d468AB2329F296e1b9d8476Bb54Dd77D8c2320f",
             "chainId": 137,
             "name": "20WETH-80BAL",
